@@ -71,10 +71,10 @@ Evaluation Metrics:
 ## 📁 Project Structure
 
 ```text
-Iris-Flower-Classification/
+Iris_Flower_Classification_Project/
 │
-├── data/
-├── notebooks/
+├── Iris.csv
+├── Iris_Flower_Classification.ipynb
 ├── images/
 ├── README.md
 ├── requirements.txt
@@ -88,7 +88,7 @@ Iris-Flower-Classification/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Iris-Flower-Classification.git
+git clone https://github.com/sariya-5/CodeAlpha_Iris_Flower_Classification.git
 ```
 
 2. Install dependencies
@@ -123,4 +123,4 @@ jupyter notebook
 
 ## 👤 Author
 
-Your Name: Sariya Khan
+ Sariya Khan
